@@ -1,6 +1,15 @@
-- 👋 Hi, I’m Khanh Hoa
+### Hi, I’m Khanh Hoa 👋
 - 👀 I’m interested in Blockchain, Distributed System
 - 🌱 I’m currently working in Notional
+### My experience
+  
+- 8+ years of experience as a Software Engineer
+- 4+ years as a Blockchain Engineer 
+- Experience with large-scale, highly available distributed system
+- Experience in technical lead, growth team
+- I was contributing to Evmos, AstraProtocol,...
+### My technology
+-  Go, Rust, Java, Database, Kafka, RocskDB, Cosmos SDK, ...
 
 <!---
 hoa-notional/hoa-notional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
