@@ -3,8 +3,7 @@
 - 🌱 I’m currently working in Notional
 ### My experience
   
-- 8+ years of experience as a Software Engineer
-- 4+ years as a Blockchain Engineer 
+- Experience as a Software Engineer, Blockchain Engineer 
 - Experience with large-scale, highly available distributed system
 - Experience in technical lead, growth team
 - I was contributing to Evmos, AstraProtocol,...
