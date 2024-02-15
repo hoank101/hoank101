@@ -1,6 +1,7 @@
 ### Hi, I’m Khanh Hoa 👋
 - 👀 I’m interested in Blockchain, Distributed System
 - 🌱 I’m currently working in Notional
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/hoank101/)
 ### My experience
   
 - Experience as a Software Engineer, Blockchain Engineer 
