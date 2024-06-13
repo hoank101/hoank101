@@ -1,7 +1,6 @@
 ### Hi, I’m Khanh Hoa 👋
 - 👀 I’m interested in Blockchain, Distributed System
 - 🌱 I’m currently working in Notional
-- 📫 How to reach me hoa@notional.ventures
 
 ### My experience
   
