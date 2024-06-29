@@ -1,6 +1,6 @@
 ### Hi, I’m Khanh Hoa 👋
 - 👀 I’m interested in Blockchain, Distributed System
-- 📫 How to reach me khanhoait.bka@gmail.com
+- 📫 How to reach me https://x.com/HoaBka
 
 ### My experience
   
